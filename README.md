@@ -82,6 +82,13 @@
 - ESP-IDF 설치 확인
 - 환경 변수 등록 (`export.bat` 실행)
 
+## ESP-IDF 설치
+ESP-IDF는 용량이 크기 때문에 레포에 포함하지 않았습니다.  
+아래 명령어로 설치하세요:
+```bash
+git clone -b v5.3 https://github.com/espressif/esp-idf.git esp-idf-v5.3
+```
+
 ### 2. ESP-CSI 라이브러리 설치
 ```bash
 git clone https://github.com/espressif/esp-csi.git

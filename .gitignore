@@ -8,11 +8,10 @@ esp32_vscode/.vscode/
 
 Espressif/
 esp32_vscode/
-#new_esp5/.devcontainer
-#new_esp5/.vscode
 preprocessing/myenv
 
-# git을 위한 csi 데이터 뽑는 폴더 따로 뺌
-esp32-cam/csi_recv_router/build
+# git을 위한 csi 데이터 뽑는 폴더 빌드 산출물 제외
+esp32-cam/csi_recv_router/build/
 
-new_esp5/components/esp-idf-v5.3
+# ESP-IDF 전체는 무시 (너무 용량이 크고, 설치로 대체 가능)
+new_esp5/components/esp-idf-v5.3/

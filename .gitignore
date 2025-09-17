@@ -1,0 +1,16 @@
+# 빌드/출력 파일 무시
+*.csv
+*.log
+*.bin
+
+# vscode 세팅 무시
+esp32_vscode/.vscode/
+
+Espressif/
+esp32_vscode/
+#new_esp5/.devcontainer
+#new_esp5/.vscode
+preprocessing/myenv
+
+# git을 위한 csi 데이터 뽑는 폴더 따로 뺌
+esp32-cam/csi_recv_router/build

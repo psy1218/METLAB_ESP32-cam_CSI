@@ -14,3 +14,5 @@ preprocessing/myenv
 
 # git을 위한 csi 데이터 뽑는 폴더 따로 뺌
 esp32-cam/csi_recv_router/build
+
+new_esp5/components/esp-idf-v5.3

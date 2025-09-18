@@ -3,6 +3,10 @@
 본 프로젝트는 **ESP32-CAM 기반 CSI(Channel State Information) 데이터**를 활용하여  
 악천후 환경에서 자율주행 시스템의 인식 정확도를 향상시키는 것을 목표로 한다.
 
+<br>
+
+![poster](./poster.png)
+
 ---
 
 ## 📌 연구 흐름

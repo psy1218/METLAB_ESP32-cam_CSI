@@ -4,6 +4,7 @@
 악천후 환경에서 자율주행 시스템의 인식 정확도를 향상시키는 것을 목표로 한다.
 
 <br>
+<img width="585" height="798" alt="image" src="https://github.com/user-attachments/assets/72c1f158-7e59-4518-ba4c-bf0707f33e7f" />
 
 ![poster](./poster.png)
 
@@ -127,4 +128,5 @@ powershell -Command "& { idf.py -p COM5 monitor | Tee-Object -FilePath 0923_csi.
 ## 📝 결론 및 의의
 - CSI 데이터는 영상 기반 자율주행의 한계를 보완할 수 있는 유용한 보조 신호임.
 - 악천후 환경에서의 인식 성능을 높여 **자율주행 시스템의 신뢰성과 안정성 향상**에 기여.
+
 
